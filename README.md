@@ -7,7 +7,6 @@ https://zealous-rhythm.surge.sh/
 # tools :
 
 - html <br>
-- css <br>
 - primitive ui <br>
 - js<br>
 - react hooks<br>
